@@ -1,6 +1,6 @@
 {
-    "name": "Fabric_Node_Chaincode_CRUD",
-    "version": "0.1.0",
+    "name": "NodeChaincodeExample",
+    "version": "0.1.4",
     "description": "My Smart Contract",
     "main": "index.js",
     "engines": {
