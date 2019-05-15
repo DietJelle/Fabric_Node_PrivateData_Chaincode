@@ -1,5 +1,5 @@
 {
-    "name": "NodeChaincodeExample",
+    "name": "Fabric_Node_Chaincode_CRUD",
     "version": "0.1.0",
     "description": "My Smart Contract",
     "main": "index.js",
