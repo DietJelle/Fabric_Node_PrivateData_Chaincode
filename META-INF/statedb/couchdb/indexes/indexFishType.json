@@ -1,8 +1,0 @@
-{
-    "index": {
-        "fields": ["docType"]
-    },
-    "ddoc": "indexFishTypeDoc",
-    "name": "indexFishType",
-    "type": "json"
-}

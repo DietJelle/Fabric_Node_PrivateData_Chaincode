@@ -1,10 +1,11 @@
+
 /*
  * SPDX-License-Identifier: Apache-2.0
  */
 
 'use strict';
 
-const FishContract = require('./lib/fish-contract');
+const Contract = require('./lib/contract');
 
-module.exports.FishContract = FishContract;
-module.exports.contracts = [ FishContract ];
+module.exports.contract = Contract;
+module.exports.contracts = [ Contract ];
