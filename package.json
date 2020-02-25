@@ -1,6 +1,6 @@
 {
     "name": "NodeChaincodeExample",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "My Smart Contract",
     "main": "index.js",
     "engines": {
@@ -17,7 +17,7 @@
     "author": "Jelle Diet",
     "license": "Apache-2.0",
     "dependencies": {
-        "fabric-contract-api": "1.4.1",
+        "fabric-contract-api": "1.4.4",
         "fabric-shim": "1.4.1"
     },
     "devDependencies": {

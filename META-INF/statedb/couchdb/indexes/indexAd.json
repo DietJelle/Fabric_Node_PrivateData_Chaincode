@@ -1,8 +1,0 @@
-{
-    "index": {
-        "fields": ["docType", "createdOn"]
-    },
-    "ddoc": "indexAd",
-    "name": "indexAd",
-    "type": "json"
-}
