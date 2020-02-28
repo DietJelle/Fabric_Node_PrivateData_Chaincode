@@ -1,6 +1,6 @@
 {
     "name": "NodeChaincodeExample",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "description": "My Smart Contract",
     "main": "index.js",
     "engines": {
